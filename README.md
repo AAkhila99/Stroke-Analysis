@@ -1,4 +1,4 @@
-## Stroke Prediction**
+## Stroke Prediction
 
 This project focuses on predicting the risk of stroke in individuals based on various health parameters using Linear Support Vector Machine (SVM) algorithm.
 
@@ -25,8 +25,7 @@ The project implementation involves the following steps:
 1. Data Preprocessing: Cleaning the dataset, handling missing values, data transformation, and feature normalization.
 2. Exploratory Data Analysis: Understanding the distribution of features, identifying correlations, and extracting insights from the dataset.
 3. Model Training: Splitting the dataset into training and testing sets, training a Linear SVM model on the training data.
-4. Model Evaluation: Assessing the performance of the trained model using relevant evaluation metrics such as accuracy, precision, recall, and F1-score.
-5. Model Interpretation: Analyzing the importance of features and understanding the decision boundaries of the SVM classifier.
+4. Model Evaluation: Assessing the performance of the trained model using relevant evaluation metrics such as accuracy, recall, balanced accuracy, ROC_AUC, and mean squared error.
 
 ## Usage
 
